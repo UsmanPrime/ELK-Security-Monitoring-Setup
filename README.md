@@ -1,8 +1,7 @@
-# ELK Security Monitoring Setup (SOC Team Task #03)
+# ELK Security Monitoring Setup 
 
 This repository contains the setup documentation and configurations for deploying a localized ELK (Elasticsearch, Logstash, Kibana) Stack environment for security monitoring. 
 
-**Activity**: ItsOlera Internship - SOC Team Task #03
 **Author**: Usman Ibrahim
 
 ## Project Objectives
